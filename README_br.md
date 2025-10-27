@@ -6,12 +6,8 @@
 </div>
 
 # <img src="https://flagcdn.com/w20/br.png"> Galeria de Código
+## Bem-vindo ao meu **Portfólio de Códigos e Competências Técnicas** — uma coleção de projetos, aprendizados e evolução profissional.
 
-**Portfólio profissional mostrando habilidades técnicas e roteiro de desenvolvimento...**
-
-*(Conteúdo completo em português)*
-
----
 
 <div align="center">
 

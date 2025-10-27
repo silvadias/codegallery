@@ -6,12 +6,9 @@
 </div>
 
 # <img src="https://flagcdn.com/w20/us.png">  Code Gallery
+## Welcome to my **Code Gallery & Technical Skills Portfolio** — a collection of projects, technical insights, and continuous learning milestones.
 
-**Professional portfolio showcasing hard skills and development roadmap...**
 
-*(Conteúdo completo em inglês)*
-
----
 
 <div align="center">
 
